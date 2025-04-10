@@ -13,7 +13,7 @@ An intelligent AI-powered assistant that transforms the way students study by pr
 ## ✨ Key Features
 
 - 🔍 **Document-Based Question Answering**: Upload PDFs of your study materials and get context-aware answers.
-- 🌐 **Multilingual Support**: Chat in English or Chinese effortlessly.
+- 🌐 **Multilingual Support**: Chat in English, Chinese or Japanese effortlessly.
 - 🧠 **LLM Powered with RAG**: Combines semantic retrieval and generation to deliver accurate results.
 - ⚡ **Optimized with OpenVINO**: Enhanced inference speed for better responsiveness.
 - 🧩 **Modular Backend Support**: Easily switch between different language models via configuration.
