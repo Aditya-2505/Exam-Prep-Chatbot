@@ -147,7 +147,7 @@ config = {
 - [Sentence Transformers](https://www.sbert.net/)
 - FAISS, NumPy, PyPDF2, Jupyter
 
-📄 Full list in `requirements.txt`
+
 
 ---
 
